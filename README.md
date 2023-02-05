@@ -30,7 +30,7 @@ Users should be able to:
 
 ## Links
 
-* Live Site URL - https://david-interactive-rating.herokuapp.com/
+* Live Site URL - https://delicate-stroopwafel-96e4ae.netlify.app/
 * Github Repository - https://github.com/datobobokhia/interactive-rating-component
 
 ## Contact Info
